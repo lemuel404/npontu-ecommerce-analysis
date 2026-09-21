@@ -2,7 +2,7 @@
 
 National Service assessment submission for **Npontu Technologies** — Intelligent Systems Services Engineer role.
 
-**Author:** Lemuel — BSc. Information Systems and Technology, University of Mines and Technology (UMaT), Tarkwa
+**Author:** Samuel Benson — BSc. Information Systems and Technology, University of Mines and Technology (UMaT), Tarkwa
 
 ## Overview
 
